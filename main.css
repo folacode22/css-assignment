@@ -1,6 +1,6 @@
 :root{
     --primary-background-color: rgba(0, 0, 0, 0.5);
-    --background-image:url('/image/background_image.jpg');
+    --background-image:url('background_image.jpg');
     --primary-color: white;
     --secondary-color:floralwhite;
 }
